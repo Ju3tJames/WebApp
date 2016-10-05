@@ -20,6 +20,8 @@ $ cd WebApp
 $ docker run -d -p 80:80 ju3tjames/webapp -e ENV_VARIABLES
 ```
 
+#IDEAS 
+
 Example ENV_VARIABLES to add,
 
 options to change ports, e.g. from 8080
