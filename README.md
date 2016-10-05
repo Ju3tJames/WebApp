@@ -1,5 +1,4 @@
 # Web App
-# @CMNatic @Ju3tJames
 
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 
@@ -27,3 +26,8 @@ Example ENV_VARIABLES to add,
 options to change ports, e.g. from 8080
 
 Maybe we can dockerise this?
+
+# Contributors
+# @CMNatic @Ju3tJames
+
+(Just want the free commit tbh)
