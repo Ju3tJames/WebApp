@@ -17,5 +17,11 @@ Development web app / manager for Docker
 ```sh
 $ git clone https://github.com/Ju3tJames/WebApp
 $ cd WebApp
-$ docker run -d -p 80:80 ju3tjames/webapp
+$ docker run -d -p 80:80 ju3tjames/webapp -e ENV_VARIABLES
 ```
+
+Example ENV_VARIABLES to add,
+
+options to change ports, e.g. from 8080
+
+Maybe we can dockerise this?
